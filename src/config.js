@@ -7,9 +7,9 @@ module.exports = {
 
   nodes: [
     {
-      host: "lavalink.jirayu.net", // Your lavalink host address 
-      password: "youshallnotpass", // Your lavalink password
-      port: 13591, // Your lavalink port
+      host: "lava-all.ajieblogs.eu.org", // Your lavalink host address 
+      password: "https://dsc.gg/ajidevserver", // Your lavalink password
+      port: 80, // Your lavalink port
       identifier: "Node", // Name for your lavalink
       secure: false, // set to true if your lavalink has SSL
       reconnectTimeout: 300000,
